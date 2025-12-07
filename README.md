@@ -1,0 +1,1 @@
+Ce projet vise à créer une application de gestion des articles en langage C. L'application permettra à un utilisateur d'effectuer diverses opérations sur une liste d'articles, telles que l'ajout, la suppression, la modification et l'affichage des articles.
